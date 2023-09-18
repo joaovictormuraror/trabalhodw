@@ -1,0 +1,270 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+body {
+    font-size: medium;
+}
+
+header {
+    background-color: rgb(230, 230, 230);
+    color: #fff;
+    padding: 20px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+.cabecalho{
+    background-color: lightgray;
+    margin-top: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+    
+}
+
+.barraverde{
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 30px;
+    height: 40px;
+    align-items: center;
+    text-align: center;
+    color: white;
+    
+}
+
+.uldabarra{
+    box-shadow: 3px 3px 3px rgb(146, 146, 146);
+
+}
+
+.bar{
+    
+}
+
+.pesq{
+    padding: 10px;
+    padding-right: 100px;
+    margin-left: 480px;
+    align-items: center;
+    text-align: center;
+    position: relative;
+}
+
+button {
+    background-color: darkgreen;
+    color: #fff;
+    height: 50px;
+    width: 1320px;
+    font-size: medium;
+}
+
+.banner {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.noticias {
+    text-align: left;
+    margin-left: 280px;
+    margin-top: 40px;
+}
+
+.noticiapost1 {
+    width: 600px;
+    margin-top: 30px;
+    margin-left: 80px;
+    margin-right: 50px;
+    display: flex;
+}
+
+.noticiapost1 img {
+    height: 220px;
+}
+
+.noticiapost1 p {
+    display: inline-flex;
+    float: left;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.noticiapost2 {
+    margin-top: 10px;
+    margin-left: 80px;
+    margin-right: 100px;
+    display: flex;
+    width: 600px;
+}
+
+.noticiapost2 img {
+    height: 296px;
+    margin-right: 20px;
+}
+
+.cursos {
+    text-align: right;
+    margin-right: 300px;
+    margin-top: -630px;
+    margin-bottom: 350px;
+}
+
+.titulocursos {
+    margin-right: 380px;
+}
+
+.botoes{
+    margin-bottom: 30px;
+    margin-top: -50px;
+    margin-left: 800px;
+}
+
+.conteudo {
+    display: flex; 
+    justify-content: space-between; 
+    margin-bottom: 100px;
+}
+
+.avisos {
+    margin-left: 400px;
+}
+
+.editais{
+    margin-right: 400px;
+}
+
+.avisos,
+.agenda,
+.editais {
+    width: 45%; 
+    text-align: left;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+.avisos h1,
+.agenda h1,
+.editais h1 {
+    margin-bottom: 20px;
+}
+
+.avisos p,
+.agenda p,
+.editais p {
+    color: rgb(89, 89, 89);
+}
+
+.titn {}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+
+.footer {
+    display: flex;
+    justify-content: center; 
+    background-color: #f3f4f4;
+    color: #000000;
+    padding-left: 100px;
+    padding: 30px;
+    line-height: 23px;
+    padding-bottom: 100px;
+    text-align: left;
+    gap: 40px;
+}
+
+
+.footer ul li {
+    margin-right: 20px; 
+
+
+}
+
+
+footer{
+    background-color: #bd564a;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.pgnoticiavaca {
+
+}
+
+.pgnoticiavaca h2{
+    margin-top: 40px;
+    margin-left: 280px;
+}
+
+.data {
+    margin-top: 30px;
+    margin-left: 280px;
+}
+
+.pgnoticiavaca img {
+    margin-top: 40px;
+    margin-left: 280px;
+    height: 350px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.textonoticia {
+   
+    margin-top: 70px;
+    margin-right:800px;
+    margin-left: 280px;
+    margin-bottom: 50px;
+    
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+ }
+
+ .pgnoticiainscricao {
+
+ }
+ 
+.pgnoticiainscricao a {
+    text-decoration: underline;
+}
+
+ .pgnoticiainscricao h2{
+     margin-top: 40px;
+     margin-left: 280px;
+ }
+ 
+ .pgnoticiainscricao img {
+     margin-top: 40px;
+     margin-left: 280px;
+     height: 350px;
+     float: left;
+     margin-right: 20px;
+     margin-bottom: 20px;
+     
+ }
+
